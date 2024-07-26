@@ -22,7 +22,7 @@ def connection():
     conn=pymysql.connect(
         host='localhost',
         user='root',
-        password='Greent8301!@#',
+        password='',
         db='stockmanagementsystem'
     )
     return conn
