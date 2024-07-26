@@ -13,3 +13,6 @@ Features
 * Inventory Tracking: Keep track of product quantities in real-time to avoid overstocking or running out of stock.
 * Reports: Generate reports to analyze stock levels.
 * Database Integration: Utilize MySQL to store product information.
+
+![Alt text](https://github.com/KazemoKaos/Stock-Management-System/blob/main/sms.png)
+![Alt text](https://github.com/KazemoKaos/Stock-Management-System/blob/main/sms2.png)
