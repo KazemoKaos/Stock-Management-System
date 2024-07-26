@@ -16,3 +16,4 @@ Features
 
 ![Alt text](https://github.com/KazemoKaos/Stock-Management-System/blob/main/sms.png)
 ![Alt text](https://github.com/KazemoKaos/Stock-Management-System/blob/main/sms2.png)
+![Alt text](https://github.com/KazemoKaos/Stock-Management-System/blob/main/db.png)
